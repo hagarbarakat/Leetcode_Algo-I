@@ -1,5 +1,5 @@
 class Solution:
-    def reverse(self, nums, start, end):
+    def reverse(self, nums: List[int], start: int, end: int) -> None:
         while start < end:
             nums[start], nums[end] = nums[end], nums[start]
             start, end = start + 1, end - 1
