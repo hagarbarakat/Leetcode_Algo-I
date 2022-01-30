@@ -1,7 +1,7 @@
 # Leetcode_Algo-I
 14 days study plan to crack algo. 
 
-## Day One
+## Day One - Binary Search
 
 | Question      | Difficulty |  Link |
 | ----------- | ----------- | ------- |
