@@ -15,3 +15,9 @@
 | ----------- | ----------- |
 |  [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy.png" width="120" height="70">|
 |  [Rotate Array](https://leetcode.com/problems/rotate-array/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Medium_grey.png" width="120" height="70"> |
+
+## Day Three - Two Pointers
+| Question      | Difficulty |
+| ----------- | ----------- |
+|  [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy.png" width="120" height="70">|
+|  [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy_grey.png" width="120" height="70"> |
