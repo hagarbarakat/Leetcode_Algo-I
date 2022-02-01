@@ -21,3 +21,9 @@
 | ----------- | ----------- |
 |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy.png" width="120" height="70">|
 |  [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy_grey.png" width="120" height="70"> |
+
+## Day Four - Two Pointers
+| Question      | Difficulty |
+| ----------- | ----------- |
+|  [Reverse String](https://leetcode.com/problems/reverse-string/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy.png" width="120" height="70">|
+|  [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | <img src="https://github.com/hagarbarakat/Yelp-Questions/blob/main/Difficulty/Easy_grey.png" width="120" height="70"> |
